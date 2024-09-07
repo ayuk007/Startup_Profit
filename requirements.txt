@@ -4,3 +4,4 @@ seaborn
 ipykernel
 numpy
 matplotlib
+xgboost
